@@ -1,0 +1,2 @@
+cd ../my_folder
+rm -R my_folder

@@ -1,0 +1,5 @@
+cd ruby_book_exercises/preparations
+mkdir new_folder
+cd new_folder 
+touch one.rb
+touch two.rb
